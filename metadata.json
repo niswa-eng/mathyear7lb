@@ -1,0 +1,6 @@
+{
+  "name": "Whiteboard Math — Stage 7 Cambridge Secondary",
+  "description": "Interactive Whiteboard and Mathematics Teaching Web Application for Year 7 Cambridge Lower Secondary Mathematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
